@@ -477,7 +477,7 @@
         
         <div class="controls">
             <button class="signal-btn" id="signalBtn">SIGNAL</button>
-            <a href="https://1wmndv.life/v3/lucky-jet-updated?p=f3lx" target="_blank" class="onewin-btn">GO 1WIN 🚀</a>
+            <a href="https://1wilib.life/v3/lucky-jet-updated?p=f3lx" target="_blank" class="onewin-btn">GO 1WIN 🚀</a>
         </div>
         
         <div class="stats">
@@ -499,7 +499,7 @@
                 <button id="count7">7</button>
             </div>
             <button id="goButton">GO TO SIGNAL</button>
-            <a href="https://1wbfqv.life/v3/2158/1win-mines?p=12bz" target="_blank" class="onewin-btn">GO 1WIN 🚀</a>
+            <a href="https://1wilib.life/v3/lucky-jet-updated?p=f3lx" target="_blank" class="onewin-btn">GO 1WIN 🚀</a>
         </div>
         
         <button class="back-btn" id="backBtn2">Back to Menu</button>
